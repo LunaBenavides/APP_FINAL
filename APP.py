@@ -29,11 +29,3 @@ ax.bar(range(1, int(años) + 1), flujos, color="blue")
 ax.set_xlabel("Años")
 ax.set_ylabel("Flujo de Caja")
 st.pyplot(fig)
-
-# Gráfico de flujos de caja
-st.subheader("Visualización de Flujos de Caja")
-fig, ax = plt.subplots()
-ax.bar(range(1, int(años) + 1), flujos, color="blue")
-ax.set_xlabel("Años")
-ax.set_ylabel("Flujo de Caja")
-st.pyplot(fig)
