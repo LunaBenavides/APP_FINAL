@@ -5,3 +5,4 @@ dash-bootstrap-componets
 plotly
 gunicorn
 matplotlib.pyplot
+matplotlib
