@@ -1,1 +1,7 @@
 streamlit
+tplotlib.pyplot 
+dash
+dash-bootstrap-componets
+plotly
+gunicorn
+matplotlib.pyplot
